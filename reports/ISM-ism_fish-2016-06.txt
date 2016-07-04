@@ -1,0 +1,52 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 1050
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 125
+	Country: Mexico ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-25 ; Times: 118
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-07 ; Times: 9
+	Date: 2016-06-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 84
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "Flavescens illinois" ; Times: 5
+	Query: "polypterus bichir" ; Times: 14
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 18
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 8
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1052 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-07 ; Times: 3
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
