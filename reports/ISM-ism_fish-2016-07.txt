@@ -1,0 +1,55 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 436
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-29 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 2
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 1
+	Query: "specificepithet:curema genus:Mugil" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 2
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 1
+	Query: "specificepithet:francisci genus:Heterodontus" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 2
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 2
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:molitrix genus:Hypophthalmichthys" ; Times: 1
+	Query: "gbifdatasetid:360a3e6f-da4e-48a8-a57e-1db31db64110" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1219 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pimephales promelas" ; Times: 1
+
+
+End of report.
