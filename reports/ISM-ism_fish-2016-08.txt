@@ -1,0 +1,61 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 825
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-19 ; Times: 13
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 60
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 7
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:nobilis genus:Hypophthalmichthys" ; Times: 2
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes" ; Times: 1
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 1
+	Query: "specificepithet:ingens genus:Hippocampus" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 3
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 4
+	Query: "specificepithet:francisci genus:Heterodontus" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 2
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 4
+	Query: "specificepithet:galeus genus:Galeorhinus" ; Times: 1
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 4
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 924 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chondrichthyes" ; Times: 1
+
+
+End of report.
