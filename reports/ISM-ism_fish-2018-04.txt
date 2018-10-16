@@ -1,0 +1,61 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1976 year &lt;= 1976" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1359 download events in this period)
+Total number of records downloaded: 357
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 13
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-03 ; Times: 5
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-24 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "salmo salar" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "salmo trutta" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Lates niloticus" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+
+
+End of report.
