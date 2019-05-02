@@ -1,0 +1,36 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "kickapoo institutioncode:ISM" ; Times: 1
+	Query: "county:&#34;Peoria&#34; institutioncode:ISM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1263 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sander vitreus" ; Times: 1
+
+
+End of report.
