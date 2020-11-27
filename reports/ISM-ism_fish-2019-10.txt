@@ -1,0 +1,53 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 12
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 6
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 7
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "vitreus Sander" ; Times: 1
+	Query: "Pastinachus sephen" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "Torpedo marmorata" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1308 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.
