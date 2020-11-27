@@ -1,0 +1,57 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 543
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 97
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 27
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-21 ; Times: 10
+	Date: 2020-04-03 ; Times: 12
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-08 ; Times: 47
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "Sander canadensis" ; Times: 11
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "catalognumber:631622" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 9
+	Query: "631622" ; Times: 1
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Pseudopleuronectes americanus" ; Times: 5
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "vntype:specimen class:Actinopterygii institutioncode:ISM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1171 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepomis gulosus" ; Times: 1
+
+
+End of report.
