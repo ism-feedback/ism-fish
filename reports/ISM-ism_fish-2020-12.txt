@@ -1,0 +1,65 @@
+Report for Institution Code ISM, Resource ism_fish
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 76
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 1
+	Country: France ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-08 ; Times: 8
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-04 ; Times: 5
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Galeorhinus galeus" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "scientificname:Plotosus lineatus" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 2
+	Query: "scientificname:Diodon hystrix" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "Mycteroperca bonaci" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "scientificname:Merlangius merlangus" ; Times: 2
+	Query: "scientificname:Torpedo marmorata" ; Times: 2
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 705 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
